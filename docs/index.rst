@@ -10,7 +10,7 @@ Pembaruan status WA hanya dapat dilihat oleh pengguna yang saling save kontak Wh
 
 Jika kalian menyimpan kontak seseorang dan seseorang tersebut juga menyimpan kontak kalian, secara default status yang kalian posting akan dapat dilihat oleh orang tersebut. Namun, terdapat solusi jika kalian ingin menyembunyikan status tersebut. Karena WhatsApp telah menyediakan fitur privasi yang bisa kalian gunakan. Kalian bisa menggunakan fitur privasi untuk menyembunyikan setiap status dari kontak tertentu dan juga dapat menyembunyikan status tertentu untuk ditampilkan pada kontak tertentu.
 
-**Baca juga**: `Cara Mengubah Nada Dering WA Dengan Suara Google <https://www.technolati.com/2022/08/cara-mengubah-nada-dering-wa-dengan.html>`_
+**Baca juga**: `Cara Mengubah Nada Dering WA Dengan Suara Google <https://www.teknotuf.com/>`_
 
 Cara Menyembunyikan Status WA dari Kontak Tertentu
 ---------------------
@@ -57,4 +57,4 @@ References
 
 .. target-notes::
 
-.. _`GB WhatsApp`: https://www.sebuahutas.com/2022/06/gb-whatsapp-pro-v-download-apk-wa-gb.html
+.. _`GB WhatsApp`: https://www.sebuahutas.com/
